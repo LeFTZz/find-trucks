@@ -1,4 +1,3 @@
-# Homework Food Trucks
 # **Find Food Trucks** 🌮
 
 ## **Summary**
