@@ -90,3 +90,4 @@ Unit tests are good thing to have in a project especially for an project like th
 An API isn’t the best way of display informations. We could consider using frameworks like Vue or React to generate a front end application so it would be more user friendly.
 
 
+Please see our [CONTRIBUTION](./CONTRIBUTION.md) docs here
